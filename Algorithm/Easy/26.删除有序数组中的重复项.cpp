@@ -74,11 +74,24 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unorder_map<int, int> hashmap;
-        for(int i = 0;i < nums.size();i++){
-            
+       //采用快慢指针
+       int fast = 1;
+       int slow = 1;
+       int len = nums.size();
+       if(len == 0){
+           return 0;
         }
+        while(fast < len){
+            if(nums[fast] != nums[fast-1]){
+                //fast 前后不一致，赋值给slow
+                nums[slow] = nums[fast];
+                slow++;
+            }
+            fast++;
+        }
+        return slow;
     }
 };
 // @lc code=end
 
+//【注】边界情况需要考虑清楚
