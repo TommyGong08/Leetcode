@@ -2,6 +2,9 @@
 刷题的顺序参考的是[力扣加加-努力做西湖区最好的算法题解](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 题解的话个人认为参考leetcode官方比较好
 
+## 立个:checkered_flag:
+**2021.5.15前刷完Easy篇**
+
 # 必刷题清单
 ## Easy
 |  题号  |  完成情况  |
@@ -21,9 +24,9 @@
 |0122.买卖股票的最佳时II|    :white_check_mark:   |
 |0125.验证回文串|  :white_check_mark:  |
 |0136.只出现一次的数字| :white_check_mark:   |
-|0155.最小栈|   |
-|0167.两数之和II输入有序数组|    |
-|0169.多数元素|  |
+|0155.最小栈|  :white_check_mark:   |
+|0167.两数之和II输入有序数组|  :white_check_mark:   |
+|0169.多数元素| :white_check_mark:   |
 |0172.阶乘后的零|    |
 |0190.颠倒二进制位|   |
 |0191.位1的个数|    |
@@ -196,6 +199,3 @@
 |1658.将 x 减到 0 的最小操作数 🆕
 |1697.检查边长度限制的路径是否存在 🆕
 |1737.满足三条件之一需改变的最少字符数 🆕
-
-## 立个:checkered_flag:
-**2021.5.15前刷完Easy篇**
