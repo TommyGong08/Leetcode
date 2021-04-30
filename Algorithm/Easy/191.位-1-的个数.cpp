@@ -74,6 +74,7 @@
 // @lc code=start
 class Solution {
 public:
+/*
     int hammingWeight(uint32_t n) {
         int ans = 0;
         for(int i = 0; i < 32 ; i++){
@@ -83,10 +84,23 @@ public:
         }
         return ans;
     }
+*/
+    int hammingWeight(uint32_t n) {
+        int ans = 0;
+        for(int i = 0; i < 33 ; i++){
+            if(((n%2)&1) == 1){
+                ans++;
+            }
+            n = n >> 1;
+        }
+        return ans;
+    }
 };
 // @lc code=end
 
 /*
-循环二进制位与运算
+用了两种方法
+1. 循环二进制位与运算，用1依次和n的每一位做与运算，1左移
+2. n右移，每次将n的最后一位和1与运算
 */
 
