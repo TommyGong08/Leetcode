@@ -33,7 +33,7 @@
 |0198.打家劫舍| :white_check_mark:    |
 |0203.移除链表元素|:white_check_mark:   |
 |0206.反转链表|  :white_check_mark:    |
-|0219.存在重复元素 II|  |
+|0219.存在重复元素 II| :white_check_mark:   |
 |0226.翻转二叉树|   |
 |0232.用栈实现队列| |
 |0263.丑数| |
