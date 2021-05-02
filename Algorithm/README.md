@@ -36,7 +36,7 @@
 |0219.存在重复元素 II| :white_check_mark:   |
 |0226.翻转二叉树| :white_check_mark:   |
 |0232.用栈实现队列|:white_check_mark:  |
-|0263.丑数| |
+|0263.丑数|:white_check_mark: |
 |0283.移动零| |
 |0342.4的幂| |
 |0371.两整数之和| |
