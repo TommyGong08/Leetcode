@@ -38,7 +38,7 @@
 |0232.用栈实现队列|:white_check_mark:  |
 |0263.丑数|:white_check_mark: |
 |0283.移动零|:white_check_mark: |
-|0342.4的幂| |
+|0342.4的幂| :white_check_mark:|
 |0371.两整数之和| |
 |0401.二进制手表| |
 |0437.路径总和 III| |
