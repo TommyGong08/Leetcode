@@ -84,6 +84,7 @@ public:
 };
 // @lc code=end
 /*
+遍历时和分 计算二进制数中1是本题的精髓
 关于计算二进制数中1的位数情况可以查看这篇博客
 https://blog.csdn.net/weixin_43864155/article/details/102076300
 */
