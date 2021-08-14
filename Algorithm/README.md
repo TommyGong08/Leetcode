@@ -5,7 +5,7 @@
 ## 立个:checkered_flag:
 **2021.5.15前刷完Easy篇**   :white_check_mark: 
 
-**2021.7.30前刷完Easy篇**   
+**2021.11.30 前刷完Medium篇**   
 # 必刷题清单
 ## Easy
 |  题号  |  完成情况  |
